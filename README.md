@@ -1,1 +1,2 @@
-# PubgMobile-Nickname-Checker
+# Pubg Mobile Nickname Taken Checker
+
